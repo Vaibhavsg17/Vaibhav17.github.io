@@ -1,2 +1,2 @@
 # Simplle web page in HTML / CSS.
-png
+![Web Image](https://github.com/Vaibhavsg17/simple-html-webpage/blob/master/webpage.png)
